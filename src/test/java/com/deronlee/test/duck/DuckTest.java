@@ -7,7 +7,7 @@ import com.deronlee.test.fly.FlyRocketPowered;
 /**
  * Created by lnc on 3/6/2016.
  */
-public class MiniDuckSimulator {
+public class DuckTest {
     public static void main(String[] args) {
         Duck mallard = new MallardDuck();
         mallard.performQuack();
